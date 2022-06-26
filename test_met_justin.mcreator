@@ -7,15 +7,20 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "luukstinkt"
+    },
+    {
+      "name": "Justinstinkt",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "justinstinkt"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "advancements.luukstinkt.descr": "je hebt aan een hoop stront geroken",
-      "advancements.luukstinkt.title": "Luukstinkt"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
