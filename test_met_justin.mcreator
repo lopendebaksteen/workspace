@@ -15,12 +15,24 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "justinstinkt"
+    },
+    {
+      "name": "Baksteenschieter",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baksteenschieter"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.justinstinkt.descr": "justin stinkt als hij de wereld joined",
+      "advancements.justinstinkt.title": "Justinstinkt",
+      "enchantment.test_met_justin.baksteenschieter": "Baksteenschieter"
+    }
   },
   "foldersRoot": {
     "name": "~",
