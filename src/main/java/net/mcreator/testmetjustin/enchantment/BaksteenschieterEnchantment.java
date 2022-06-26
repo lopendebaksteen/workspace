@@ -1,13 +1,8 @@
 
 package net.mcreator.testmetjustin.enchantment;
 
-import net.minecraft.world.item.enchantment.EnchantmentCategory;
-import net.minecraft.world.item.enchantment.Enchantment;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.EquipmentSlot;
-
 public class BaksteenschieterEnchantment extends Enchantment {
+
 	public BaksteenschieterEnchantment(EquipmentSlot... slots) {
 		super(Enchantment.Rarity.VERY_RARE, EnchantmentCategory.CROSSBOW, slots);
 	}
@@ -33,4 +28,5 @@ public class BaksteenschieterEnchantment extends Enchantment {
 	public boolean isDiscoverable() {
 		return false;
 	}
+
 }

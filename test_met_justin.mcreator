@@ -23,6 +23,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "baksteenschieter"
+    },
+    {
+      "name": "Autosmelt",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "autosmelt"
     }
   ],
   "variable_elements": [],
@@ -30,8 +38,7 @@
   "language_map": {
     "en_us": {
       "advancements.justinstinkt.descr": "justin stinkt als hij de wereld joined",
-      "advancements.justinstinkt.title": "Justinstinkt",
-      "enchantment.test_met_justin.baksteenschieter": "Baksteenschieter"
+      "advancements.justinstinkt.title": "Justinstinkt"
     }
   },
   "foldersRoot": {
