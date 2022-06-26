@@ -1,9 +1,21 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Justinstinkt",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "justinstinkt"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.justinstinkt.descr": "justin stinkt als hij de wereld joined",
+      "advancements.justinstinkt.title": "Justinstinkt"
+    }
   },
   "foldersRoot": {
     "name": "~",
