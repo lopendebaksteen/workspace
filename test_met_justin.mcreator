@@ -15,12 +15,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "justinstinkt"
+    },
+    {
+      "name": "Autosmelt",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "autosmelt"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "enchantment.test_met_justin.autosmelt": "Autosmelt"
+    }
   },
   "foldersRoot": {
     "name": "~",
