@@ -1,9 +1,21 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Luukstinkt",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luukstinkt"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.luukstinkt.descr": "je hebt aan een hoop stront geroken",
+      "advancements.luukstinkt.title": "Luukstinkt"
+    }
   },
   "foldersRoot": {
     "name": "~",
